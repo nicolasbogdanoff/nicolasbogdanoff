@@ -1,16 +1,29 @@
-## Hi there 👋
+# Nicolás Mauricio Bogdanoff
 
-<!--
-**nicolasbogdanoff/nicolasbogdanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineering education and research**  
+Scientific computing · AI/ML · Digital twins · Heat and mass transfer · Statistical quality
 
-Here are some ideas to get you started:
+I build transparent, reproducible tools for engineering analysis and education. My work connects computational methods with physical systems, process data, and practical decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current public work
+
+- **[SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app)** — a Shiny for Python application for X̄-R control charts, revised control limits, process-capability indices, CSV/Excel workflows, and auditable statistical analysis.
+
+## Areas of interest
+
+- Scientific machine learning and AI-assisted engineering
+- AI/ROCm experimentation and reproducible computational workflows
+- Digital twins for engineering systems
+- Heat and mass transfer
+- Statistical process control and quality engineering
+- Engineering education through inspectable software
+
+## Academic profile
+
+- **Affiliation:** Universidad Paraguayo Alemana (UPA)
+- **ORCID:** [0009-0004-6275-3013](https://orcid.org/0009-0004-6275-3013)
+- **Location:** Paraguay
+
+This profile will grow with future, evidence-based projects in engineering computation, AI/ML, digital twins, thermal systems, and statistical quality.
+
+[ORCID](https://orcid.org/0009-0004-6275-3013) · [GitHub repositories](https://github.com/nicolasbogdanoff?tab=repositories)
