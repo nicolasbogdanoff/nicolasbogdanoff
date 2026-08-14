@@ -8,6 +8,8 @@ I build transparent, reproducible tools for engineering analysis and education. 
 ## Current public work
 
 - **[SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app)** — a Shiny for Python application for X̄-R control charts, revised control limits, process-capability indices, CSV/Excel workflows, and auditable statistical analysis.
+- **[Thermal Digital Twin](https://github.com/nicolasbogdanoff/thermal-digital-twin)** — a first-order thermal model with synthetic observations and transparent parameter estimation for digital-twin and thermal-engineering experimentation.
+- **[Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality)** — a non-destructive Python toolkit for profiling and validating subgrouped engineering data before SPC analysis.
 
 ## Areas of interest
 
