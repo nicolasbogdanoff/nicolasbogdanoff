@@ -24,6 +24,10 @@ I build transparent, reproducible tools for engineering analysis and education. 
 - Design of experiments and engineering data analysis
 - Engineering education through inspectable software
 
+## Verified credential
+
+- **[Credly credential](https://www.credly.com/badges/138937ff-72f7-4493-b3b1-7a0aed0d9928/public_url)** — public digital credential.
+
 ## Academic profile
 
 - **Affiliation:** Universidad Paraguayo Alemana (UPA)
