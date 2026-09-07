@@ -14,6 +14,16 @@ I build transparent, reproducible tools for engineering analysis and education. 
 - **[Scientific Computing ROCm Diagnostics](https://github.com/nicolasbogdanoff/scientific-computing-rocm)** — conservative CPU/CUDA/ROCm environment diagnostics for reproducible accelerated-computing experiments.
 - **[Engineering Experiment Design](https://github.com/nicolasbogdanoff/engineering-experiment-design)** — transparent two-level factorial design generation and coded effect estimation.
 
+## Recent engineering improvements
+
+The project collection is evolving as a connected, reviewable workflow:
+
+- Thermal models expose both the Biot-number check and inverse time-to-target calculations.
+- Experiment-design utilities map coded runs back to physical factor levels and add interaction columns explicitly.
+- Data-quality profiles report missingness by measurement before any SPC analysis.
+- The thermal digital twin reports MAE, RMSE, and maximum error for model comparison.
+- ROCm diagnostics record visible device metadata and can fail explicitly when acceleration is required.
+
 ## Areas of interest
 
 - Scientific machine learning and AI-assisted engineering
