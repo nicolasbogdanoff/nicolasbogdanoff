@@ -17,7 +17,7 @@ I work at the intersection of **scientific computing, AI/ML, thermal systems, di
 | Is the input data ready for SPC? | [Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality) | Non-destructive validation, profiling and missingness reporting |
 | How does a body cool or heat? | [Heat and Mass Transfer Models](https://github.com/nicolasbogdanoff/heat-mass-transfer-models) | Lumped-capacitance equations, Biot checks and inverse calculations |
 | Which factors should we study? | [Engineering Experiment Design](https://github.com/nicolasbogdanoff/engineering-experiment-design) | Full-factorial designs, coded effects and physical-level decoding |
-| What compute backend is actually available? | [Scientific Computing ROCm](https://github.com/nicolasbogdanoff/scientific-computing-rocm) | Conservative CPU/CUDA/ROCm detection and reproducible runtime metadata |
+| What compute backend is actually available? | [Scientific Computing ROCm](https://github.com/nicolasbogdanoff/scientific-computing-rocm) | Conservative CPU/CUDA/ROCm detection and reproducible runtime metadata; includes a separate [draft 2D PINN experiment](https://github.com/nicolasbogdanoff/scientific-computing-rocm/pull/1) |
 
 ## Current direction
 
