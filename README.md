@@ -12,7 +12,7 @@ I work at the intersection of **scientific computing, AI/ML, thermal systems, di
 
 | Engineering question | Public work | What it demonstrates |
 | --- | --- | --- |
-| Is the process stable and capable? | [SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app) | X̄-R charts, run-signal review, capability analysis and downloadable audit records |
+| Is the process stable and capable? | [SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app) ([v0.2.0](https://github.com/nicolasbogdanoff/spc_connect_cloud_app/releases/tag/v0.2.0)) | X̄-R charts, run-signal review, capability analysis and downloadable audit records |
 | Is the thermal behavior understandable? | [Thermal Digital Twin](https://github.com/nicolasbogdanoff/thermal-digital-twin) | Simulation, synthetic observations, parameter fitting, time constants and error metrics |
 | Is the input data ready for SPC? | [Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality) | Non-destructive validation, missingness profiling and variability checks |
 | How does a body cool or heat? | [Heat and Mass Transfer Models](https://github.com/nicolasbogdanoff/heat-mass-transfer-models) | Lumped-capacitance equations, Biot checks and inverse calculations |
