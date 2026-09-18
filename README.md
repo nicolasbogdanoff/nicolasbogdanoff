@@ -13,11 +13,13 @@ I work at the intersection of **scientific computing, AI/ML, thermal systems, di
 | Engineering question | Public work | What it demonstrates |
 | --- | --- | --- |
 | Is the process stable and capable? | [SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app) ([v0.2.0](https://github.com/nicolasbogdanoff/spc_connect_cloud_app/releases/tag/v0.2.0)) | X̄-R charts, run-signal review, capability analysis and downloadable audit records |
+| How can academic quality evidence stay traceable? | [SIGC-UPA](https://github.com/nicolasbogdanoff/sigc-upa-ingenieria-civil-industrial) | Accreditation workflows, evidence history, surveys, reports and security checks |
 | Is the thermal behavior understandable? | [Thermal Digital Twin](https://github.com/nicolasbogdanoff/thermal-digital-twin) | Simulation, synthetic observations, parameter fitting, time constants and error metrics |
 | Is the input data ready for SPC? | [Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality) | Non-destructive validation, missingness profiling and variability checks |
 | How does a body cool or heat? | [Heat and Mass Transfer Models](https://github.com/nicolasbogdanoff/heat-mass-transfer-models) | Lumped-capacitance equations, Biot checks and inverse calculations |
 | Which factors should we study? | [Engineering Experiment Design](https://github.com/nicolasbogdanoff/engineering-experiment-design) | Full-factorial designs, coded effects and physical-level decoding |
 | What compute backend is actually available? | [Scientific Computing ROCm](https://github.com/nicolasbogdanoff/scientific-computing-rocm) | Conservative CPU/CUDA/ROCm detection and reproducible runtime metadata; includes a separate [draft 2D PINN experiment](https://github.com/nicolasbogdanoff/scientific-computing-rocm/pull/1) |
+| How does a thermal model become hardware-ready? | [FCI-UPA FPGA Lab](https://github.com/nicolasbogdanoff/fci-upa-fpga-lab) | Fixed-point models, SystemVerilog RTL, simulation and vector verification |
 
 ## Current direction
 
@@ -35,6 +37,8 @@ The emphasis is evidence over decoration: public repositories include focused AP
 - Design of experiments and process improvement
 - Statistical process control and engineering data analysis
 - Portable CPU/CUDA/ROCm workflows
+- Academic accreditation systems and evidence traceability
+- FPGA verification, fixed-point arithmetic and edge AI preparation
 
 ## Academic profile
 
