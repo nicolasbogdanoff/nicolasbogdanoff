@@ -12,7 +12,7 @@ I work at the intersection of **scientific computing, AI/ML, thermal systems, di
 
 | Engineering question | Public work | What it demonstrates |
 | --- | --- | --- |
-| Is the process stable and capable? | [SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app) ([v0.3.0](https://github.com/nicolasbogdanoff/spc_connect_cloud_app/releases/tag/v0.3.0)) | X̄-R charts, run-signal review, capability analysis and versioned downloadable audit records |
+| Is the process stable and capable? | [SPC Connect](https://github.com/nicolasbogdanoff/spc_connect_cloud_app) ([v0.4.0](https://github.com/nicolasbogdanoff/spc_connect_cloud_app/releases/tag/v0.4.0)) | X̄-R charts, run-signal review, capability analysis, versioned audit records and strict input validation |
 | How can academic quality evidence stay traceable? | [SIGC-UPA](https://github.com/nicolasbogdanoff/sigc-upa-ingenieria-civil-industrial) | Accreditation workflows, evidence history, surveys, reports and security checks |
 | Is the thermal behavior understandable? | [Thermal Digital Twin](https://github.com/nicolasbogdanoff/thermal-digital-twin) | Simulation, synthetic observations, parameter fitting, time constants and error metrics |
 | Is the input data ready for SPC? | [Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality) | Non-destructive validation, missingness profiling and variability checks |
