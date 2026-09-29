@@ -18,7 +18,7 @@ I work at the intersection of **scientific computing, AI/ML, thermal systems, di
 | Is the input data ready for SPC? | [Engineering Data Quality](https://github.com/nicolasbogdanoff/engineering-data-quality) | Non-destructive validation, missingness profiling and variability checks |
 | How does a body cool or heat? | [Heat and Mass Transfer Models](https://github.com/nicolasbogdanoff/heat-mass-transfer-models) | Lumped-capacitance equations, Biot checks and inverse calculations |
 | Which factors should we study? | [Engineering Experiment Design](https://github.com/nicolasbogdanoff/engineering-experiment-design) | Full-factorial designs, coded effects and physical-level decoding |
-| What compute backend is actually available? | [Scientific Computing ROCm](https://github.com/nicolasbogdanoff/scientific-computing-rocm) | Conservative CPU/CUDA/ROCm detection and reproducible runtime metadata; includes a separate [draft 2D PINN experiment](https://github.com/nicolasbogdanoff/scientific-computing-rocm/pull/1) |
+| How can a scientific ML experiment be checked on real hardware? | [Scientific Computing ROCm](https://github.com/nicolasbogdanoff/scientific-computing-rocm) and its [draft 2D PINN dossier](https://github.com/nicolasbogdanoff/scientific-computing-rocm/pull/1) | Conservative CPU/CUDA/ROCm detection, automatic differentiation against an analytical heat solution, recorded device metadata and syntax-checked reproduction |
 | How does a thermal model become hardware-ready? | [FCI-UPA FPGA Lab](https://github.com/nicolasbogdanoff/fci-upa-fpga-lab) | Fixed-point models, SystemVerilog RTL, simulation and vector verification |
 
 ## Current direction
@@ -28,6 +28,10 @@ I am developing a connected engineering-computation workflow:
 **design the experiment → validate the measurements → model the system → quantify error → document the runtime.**
 
 The emphasis is evidence over decoration: public repositories include focused APIs, unit tests and continuous integration where appropriate. Accelerator support is reported only when the local runtime exposes it; no hardware result is implied by a project name.
+
+## Current research line
+
+I am extending the same discipline to physics-informed and kinetic modelling: preserve measurement identities by construction, validate with grouped splits and held-out time horizons, quantify uncertainty through retraining, and verify numerical claims against released artefacts. The osmotic-dehydration study is still pre-submission; primary laboratory records are not redistributed, and authorship and data-use permissions are being resolved before public release.
 
 ## Technical interests
 
